@@ -1,0 +1,4 @@
+strategy,pct_of_optimum,budget_used_pct,value_per_euro,budget_runs_out
+greedy,63.6 ± 3.0,100.0,1.70,14:00 (median)
+throttling,60.8 ± 5.5,93.6,1.74,never (most days)
+adaptive_pacing,97.4 ± 4.2,99.9,2.60,23:00 (median)
